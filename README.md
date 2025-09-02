@@ -2,10 +2,6 @@
 > Self-Development Project <br>
 > Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Test-Driven Development
 
-<<<<<<< HEAD
-Motivation is to build an CRUD API with FastAPI, SQLAlchemy, Postgres, and Docker.
-
-
 ###### Motivation
 
 Develop a simple CRUD API using modern Python tools such as FastAPI/Pydantic, SQLAlchemy, Postgres, and Docker.
