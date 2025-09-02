@@ -10,7 +10,7 @@ class StretchCreate(BaseModel):
     duration_seconds: int = Field(..., gt=0, le=300, description="Hold time in seconds (max. 5 minutes)")
     muscle_group: MuscleGroup
 
-    @validator('name'):
+    @validator('name')
     def name_must_not_be_empty(cls, v):
         if not v.strip():
             raise ValueError("Name cannot be empty or only whitespace")
