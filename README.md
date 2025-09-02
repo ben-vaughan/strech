@@ -1,5 +1,8 @@
-Simple application to manage your stretching routine. 
+> **Strech** <br>
+> Self-Development Project <br>
+> Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Test-Driven Development
 
+<<<<<<< HEAD
 Motivation is to build an CRUD API with FastAPI, SQLAlchemy, Postgres, and Docker.
 
 
